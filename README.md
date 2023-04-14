@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nandakishor-v.itch.io/](https://nandakishor-v.itch.io/)
 
-- 💬 Ask me about **👋 Hi, I’m @nandakishor-v 👀 I’m interested in playing games , watching web series etc 🌱 I’m currently learning btech specialized in gaming technology**
+- 💬 Ask me about **👋 Hi, I’m @nandakishor-v  I’m interested in playing games , watching web series etc . I’m currently learning btech specialized in gaming technology**
 
 - 📫 How to reach me **nandakishor1000@gmail.com**
 
