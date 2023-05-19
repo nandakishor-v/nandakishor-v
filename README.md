@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandakishor-v&label=Profile%20views&color=0e75b6&style=flat" alt="nandakishor-v" /> </p>
 
-- 🌱 I’m currently learning **App development , Google UX design**
+- 🌱 I’m Currently learning **App development , Google UX design**
 
 - 👨‍💻 All of my projects are available at [https://nandakishor-v.itch.io/](https://nandakishor-v.itch.io/)
 
