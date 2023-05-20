@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nandakishor.v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nandakishor.v" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nandakishor v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandakishor v" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nandakishor-v-858722209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandakishor v" height="30" width="40" /></a>
 <a href="https://fb.com/nandakishor.veettikizhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nandakishor.veettikizhi" height="30" width="40" /></a>
 <a href="https://instagram.com/nandakishor.v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nandakishor.v" height="30" width="40" /></a>
 <a href="https://hashnode.com/@MrNobody7010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@nandakishor1000" height="30" width="40" /></a>
