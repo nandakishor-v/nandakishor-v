@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **nandakishor1000@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16TxQaEJdDS6TSIFkRU59ZoR2DFHZQZNV/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RnodqYH0kgT0RiG-WGA5yqs745E6HEgr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
